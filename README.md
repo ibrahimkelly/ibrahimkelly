@@ -1,5 +1,5 @@
 # Ibrahim KELLY
-## I'm a Web and Mobile Developer
+## I'm a Web and Mobile App Developer
 
 I started as a self trainer, curious to know why things are working, communicating with each others.
 I study Insurance - Bank & Finance at Hight School in Mali at FSEG.
