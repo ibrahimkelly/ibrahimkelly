@@ -22,8 +22,6 @@ My actually goal is to find an ultimate way to build programs.
 ---
 [![](https://visitcount.itsvg.in/api?id=ibrahimkelly&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-![](https://firebasestorage.googleapis.com/v0/b/ikelly.appspot.com/o/Images%2Fsplash1.png?alt=media&token=d85e59ee-2e7d-4775-be2c-01464ad9604b)
 Take a look at my portfolio at this link : https://ikelly.web.app
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad){:target="_blank"}
