@@ -1,4 +1,4 @@
-# Hello, Fellow Coders! 👋
+# Ibrahim KELLY ! 👋
 
 I'm a Junior Software Engineer with a passion for crafting solutions using a diverse set of technologies. My journey into the tech realm started with studies in Insurance, Banking & Finance at FSEG in Mali, and now I'm weaving my skills as a developer specializing in various technologies.
 
