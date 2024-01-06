@@ -1,23 +1,33 @@
-# Ibrahim KELLY! 👋
+# Hello, Fellow Coders! 👋
 
-I'm a Junior Software Engineer on a mission to create elegant and efficient solutions in the world of technology. With a background in Insurance, Banking & Finance from FSEG in Mali, and training in Web and Mobile App Development at Orange Digital Center, I'm now diving into the world of professional software engineering.
+I'm a Junior Software Engineer with a passion for crafting solutions using a diverse set of technologies. My journey into the tech realm started with studies in Insurance, Banking & Finance at FSEG in Mali, and now I'm weaving my skills as a developer specializing in various technologies.
+
+## 🚀 Tech Stack
+
+Here are some of my favorite technologies:
+
+- **Languages:** Python, Java, JavaScript, TypeScript
+- **Frameworks & Libraries:** Angular, Flutter, Spring Boot, Kivy/KivyMD
+- **Databases:** Firebase, Postgres, MySQL
+- **AI:** Exploring the fascinating world of Artificial Intelligence
+- **Hardware:** Arduino - Connecting software with the physical world!
 
 ## 💼 Professional Snapshot
 
-- Currently exploring technologies like HTML, CSS, JavaScript, React, React Native, and more.
-- Solid understanding of backend development using Node.js and Express.
-- Proficient in working with databases, including MongoDB and Firebase.
+- Proficient in building web and mobile applications with Angular, Flutter, and Kivy/KivyMD.
+- Backend development using Spring Boot, and database management with Firebase, Postgres, and MySQL.
+- Enthusiastic about integrating AI into projects to enhance functionality. Also, adept at connecting software with hardware using Arduino.
 
-## 🚀 Projects & Contributions
+## 🌐 Portfolio
 
-As a Junior Software Engineer, I'm eager to contribute to meaningful projects and collaborate with fellow developers. Check out my [portfolio](#) to explore some of my recent works.
+Check out my [portfolio](https://ikelly.web.app) for a closer look at projects I've worked on, showcasing my skills and passion for coding.
 
-## 🌱 Learning & Growing
+## 🌱 Continuous Learning
 
-I believe in the power of continuous learning. Currently focused on honing my skills in software architecture, design patterns, and best coding practices.
+As a firm believer in continuous learning, I'm always exploring new technologies and refining my skills to stay on the cutting edge.
 
-## 📫 Let's Connect
+## 📫 Let's Collaborate
 
-Whether you're looking for a collaborator on your project, have valuable insights to share, or just want to connect with a fellow developer, feel free to reach out! Excited about the possibilities that lie ahead.
+If you're looking for a collaborator with expertise in Python, Java, JavaScript, TypeScript, Arduino, or anything in my tech stack, let's chat! I'm open to exciting projects and opportunities.
 
-Happy coding! 🌟
+Happy coding! 🚀
