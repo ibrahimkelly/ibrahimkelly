@@ -12,12 +12,6 @@ Here are some of my favorite technologies:
 - **AI:** Exploring the fascinating world of Artificial Intelligence
 - **Hardware:** Arduino - Connecting software with the physical world!
 
-## 💼 Professional Snapshot
-
-- Proficient in building web and mobile applications with Angular, Flutter, and Kivy/KivyMD.
-- Backend development using Spring Boot, and database management with Firebase, Postgres, and MySQL.
-- Enthusiastic about integrating AI into projects to enhance functionality. Also, adept at connecting software with hardware using Arduino.
-
 ## 🌐 Portfolio
 
 Check out my [portfolio](https://ikelly.web.app) for a closer look at projects I've worked on, showcasing my skills and passion for coding.
