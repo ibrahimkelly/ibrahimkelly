@@ -22,10 +22,6 @@ Here are some of my favorite technologies:
 
 Check out my [portfolio](https://ikelly.web.app) for a closer look at projects I've worked on, showcasing my skills and passion for coding.
 
-## 🌱 Continuous Learning
-
-As a firm believer in continuous learning, I'm always exploring new technologies and refining my skills to stay on the cutting edge.
-
 ## 📫 Let's Collaborate
 
 If you're looking for a collaborator with expertise in Python, Java, JavaScript, TypeScript, Arduino, or anything in my tech stack, let's chat! I'm open to exciting projects and opportunities.
