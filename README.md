@@ -1,4 +1,4 @@
-# 💻 Tech Stack
+# 💻 Full Stack Developer
 
 - **Languages:** Python, Java, JavaScript, TypeScript  
 - **Frameworks & Libraries:** Angular, Flutter, Spring Boot, Kivy/KivyMD  
